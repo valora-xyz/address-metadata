@@ -99,3 +99,7 @@ As an example, you can run the following command from the project root to add th
 ```bash
 yarn ts-node scripts/add-erc20-tokens-coingecko.ts --category-id ethereum-ecosystem --platform-id ethereum --viem-chain-id mainnet --number-of-results 20 --page-number 1 --tokens-info-file-path src/data/mainnet/ethereum-tokens-info.json --enable-swap true
 ```
+
+## Discussion
+
+Join `#developers` on [Valora Discord](https://discord.gg/CF4UcGjAay).
