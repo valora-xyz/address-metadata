@@ -1001,5 +1001,15 @@
     "isNative": false,
     "infoUrl": "https://www.coingecko.com/en/coins/walletconnect-token",
     "minimumAppVersionToSwap": "1.72.0"
+  },
+  {
+    "name": "Tether America USD",
+    "symbol": "USAT",
+    "decimals": 6,
+    "address": "0x07041776f5007aca2a54844f50503a18a72a8b68",
+    "imageUrl": "https://raw.githubusercontent.com/valora-inc/address-metadata/main/assets/tokens/USAT.png",
+    "isNative": false,
+    "infoUrl": "https://www.coingecko.com/en/coins/usat",
+    "minimumAppVersionToSwap": "1.72.0"
   }
 ]
