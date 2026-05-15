@@ -715,6 +715,20 @@
     "infoUrl": "https://www.coingecko.com/en/coins/tether"
   },
   {
+    "name": "Tether America USD",
+    "symbol": "USAT",
+    "decimals": 6,
+    "address": "0xd2ab3c9a02dbbab236bfec45d1d755df4267f771",
+    "imageUrl": "https://raw.githubusercontent.com/valora-inc/address-metadata/main/assets/tokens/USAT.png",
+    "feeCurrencyAdapterAddress": "0x0357ee22278c922e1d36cfe6b899269b161880c4",
+    "feeCurrencyAdapterDecimals": 18,
+    "showZeroBalance": true,
+    "isCashInEligible": true,
+    "isStableCoin": true,
+    "minimumAppVersionToSwap": "1.68.0",
+    "infoUrl": "https://www.coingecko.com/en/coins/usat"
+  },
+  {
     "address": "0x456a3d042c0dbd3db53d5489e98dfb038553b0d0",
     "decimals": 18,
     "imageUrl": "https://raw.githubusercontent.com/valora-inc/address-metadata/main/assets/tokens/cKES.png",
