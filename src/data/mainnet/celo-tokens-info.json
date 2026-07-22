@@ -720,6 +720,7 @@
     "decimals": 6,
     "address": "0xd2ab3c9a02dbbab236bfec45d1d755df4267f771",
     "imageUrl": "https://raw.githubusercontent.com/valora-inc/address-metadata/main/assets/tokens/USAT.png",
+    "pegTo": "0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e",
     "feeCurrencyAdapterAddress": "0x0357ee22278c922e1d36cfe6b899269b161880c4",
     "feeCurrencyAdapterDecimals": 18,
     "showZeroBalance": true,
