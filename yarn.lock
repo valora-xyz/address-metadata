@@ -1396,10 +1396,10 @@
   dependencies:
     "@sinonjs/commons" "^3.0.1"
 
-"@standard-schema/spec@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@standard-schema/spec/-/spec-1.0.0.tgz#f193b73dc316c4170f2e82a881da0f550d551b9c"
-  integrity sha512-m2bOd0f2RT9k8QJx1JN85cZYyH1RqFBdlwtkSlf4tBDYLCiiZnv1fIIwacK6cqwXavOydf0NPToMQgpKq+dVlA==
+"@standard-schema/spec@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@standard-schema/spec/-/spec-1.1.0.tgz#a79b55dbaf8604812f52d140b2c9ab41bc150bb8"
+  integrity sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w==
 
 "@streamparser/json@^0.0.20":
   version "0.0.20"
@@ -4730,10 +4730,10 @@ jimp@^0.22.12:
     "@jimp/types" "^0.22.12"
     regenerator-runtime "^0.13.3"
 
-joi@^18.0.1:
-  version "18.0.1"
-  resolved "https://registry.yarnpkg.com/joi/-/joi-18.0.1.tgz#1e1885d035cc6ca1624e81bf22112e7c1ee38e1b"
-  integrity sha512-IiQpRyypSnLisQf3PwuN2eIHAsAIGZIrLZkd4zdvIar2bDyhM91ubRjy8a3eYablXsh9BeI/c7dmPYHca5qtoA==
+joi@^18.3.0:
+  version "18.3.1"
+  resolved "https://registry.yarnpkg.com/joi/-/joi-18.3.1.tgz#0d80d63b8ff103e61b414edc7943666e72458a3b"
+  integrity sha512-mV9M4Llh4va3NT90p7KBtQhoZqjs8xLX7EWYE4y/GG3yLF6REbIBEHSUb0UX1JXRht2w5tiLSsvmpYc5akiqIw==
   dependencies:
     "@hapi/address" "^5.1.1"
     "@hapi/formula" "^3.0.2"
@@ -4741,7 +4741,7 @@ joi@^18.0.1:
     "@hapi/pinpoint" "^2.0.1"
     "@hapi/tlds" "^1.1.1"
     "@hapi/topo" "^6.0.2"
-    "@standard-schema/spec" "^1.0.0"
+    "@standard-schema/spec" "^1.1.0"
 
 jose@^4.14.6:
   version "4.15.5"
