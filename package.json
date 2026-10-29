@@ -39,7 +39,7 @@
     "@valora/logging": "^1.4.0",
     "dotenv": "^17.4.2",
     "firebase-admin": "^13.10.0",
-    "joi": "^18.0.1",
+    "joi": "^18.3.0",
     "json-diff": "^1.0.6",
     "semver": "^7.7.3",
     "typescript": "~5.8.2",
