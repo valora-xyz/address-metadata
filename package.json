@@ -37,7 +37,7 @@
     "@types/node": "^17.0.45",
     "@valora/http-handler": "^1.0.0",
     "@valora/logging": "^1.4.0",
-    "dotenv": "^17.2.3",
+    "dotenv": "^17.4.2",
     "firebase-admin": "^13.5.0",
     "joi": "^18.0.1",
     "json-diff": "^1.0.6",
